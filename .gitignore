@@ -1,0 +1,12 @@
+# built programs
+01-pipeline
+02-numbers
+02-sum
+04-capacity
+04-worker
+04-capture-broken
+04-capture
+04-capture-noclose
+core
+*.o
+__pycache__/
